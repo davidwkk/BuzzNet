@@ -1,8 +1,7 @@
 # BuzzNet
-
 Group Project for CSCI3100 2024-25 Sem 2 at CUHK
 
-# Developer's Role
+## Developer's Role
 
 - Zhang Ka Sing - Frontend
 - Peng Minqi - Frontend
@@ -10,8 +9,16 @@ Group Project for CSCI3100 2024-25 Sem 2 at CUHK
 - Zeng Bai Chuan - Backend
 - Wong Kwok Kam - Backend
 
-# The Websites of Our Projects
-You can visit our websites: https://buzz-net-tau.vercel.app/
+## Online Version
+
+<div align="center">
+  <img src="media/logo.png" alt="BuzzNet Logo" width="250"/>
+</div>
+
+Welcome to chat on our websites: https://buzz-net-tau.vercel.app/
+
+For the Usage Guide, please check: https://github.com/NokkTsang/BuzzNet
+
 
 # Dev Env Setup
 
